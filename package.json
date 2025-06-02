@@ -1,0 +1,21 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "start-file": "nodemon app-with-file.js"
+  },
+  "keywords": [],
+  "author": "Sergio Urrieta",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  
+  }
+}

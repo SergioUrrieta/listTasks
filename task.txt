@@ -1,0 +1,3 @@
+jojo|true
+hello word|false
+ahora si|false
