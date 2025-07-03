@@ -1,3 +1,2 @@
-jojo|true
-hello word|false
-ahora si|false
+tarea 1 |true
+tarea 2|false
